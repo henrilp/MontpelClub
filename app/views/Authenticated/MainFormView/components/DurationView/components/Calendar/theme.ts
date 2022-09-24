@@ -1,0 +1,26 @@
+import { Color } from '~/assets/theme/color/color'
+
+export default {
+  // textSectionTitleColor: '#b6c1cd',
+  // textSectionTitleDisabledColor: '#d9e1e8',
+  // selectedDayBackgroundColor: '#00adf5',
+  // selectedDayTextColor: '#ffffff',
+  // todayTextColor: '#00adf5',
+  dayTextColor: Color.black,
+  textDisabledColor: Color.lightGrey,
+  // dotColor: '#00adf5',
+  // selectedDotColor: '#ffffff',
+  // arrowColor: 'orange',
+  // disabledArrowColor: '#d9e1e8',
+  // monthTextColor: 'blue',
+  // indicatorColor: 'blue',
+  textDayFontFamily: 'Inter-Regular',
+  textMonthFontFamily: 'Value-Bold',
+  textDayHeaderFontFamily: 'Inter-Regular',
+  // textDayFontWeight: '300',
+  // textMonthFontWeight: 'bold',
+  // textDayHeaderFontWeight: '300',
+  textDayFontSize: 16,
+  textMonthFontSize: 24,
+  textDayHeaderFontSize: 14,
+}
